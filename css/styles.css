@@ -1,0 +1,15 @@
+h1 {
+  color: red;
+}
+
+p {
+  text-align: center;
+  font-style: italic;
+}
+
+ul {
+  font-weight: 900;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 24px;
+  line-height: 40px;
+}
