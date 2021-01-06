@@ -19,7 +19,8 @@ _None currently_
 
 ## Support and Contact Details
 
-_@KirbyPaint on Discord_
+_@KirbyPaint on Discord_\
+_Jon Stump https://github.com/jonstump_
 
 ## Technologies Used
 
